@@ -21,13 +21,15 @@ Python初心者の人が初めてプログラムを実行するなら、ここ�
 
 ### ノートブック基本機能
 
-[はじめてのGoogleコラボ]()
+- [はじめてのGoogleコラボ]()
 
 ## お役立ちリンク
 
 外部サイトで公開されている、勉強になるノートブックのリンクです。
 
 ### ノートブックの使い方
+- [Python Japan｜ゼロからのPython入門講座](https://www.python.jp/train/experience/colab.html)
+
 ### Numpy
 ### Matplotlib
 ### Pandas
