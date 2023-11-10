@@ -1,6 +1,7 @@
-# Colab-Repo
+# ColabHandbook
 
 ここはGoogle Colaboratoryのノートブックファイルを保存するリポジトリです。
+ノートブックを項目順に並べています。
 
 ## Google Colaboratoryとは
 
