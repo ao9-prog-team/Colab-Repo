@@ -13,6 +13,7 @@
 ノートブックの末尾の「前へ｜次へ」もこの順番になっていますので、ぜひ取り組んでみてください。
 
 ## 初級編
+[はじめてのColabノートブック](https://colab.research.google.com/github/AosagiA/ColabHandbook/blob/main/NotebookTutorial/NotebookTutorial1.ipynb)
 
 ## 中級編
 
