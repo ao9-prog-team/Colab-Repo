@@ -30,7 +30,8 @@ Python初心者の人が初めてプログラムを実行するなら、ここ�
 
 ### ノートブックの使い方
 - [Python Japan｜ゼロからのPython入門講座](https://www.python.jp/train/experience/colab.html)
-
+### Pythonの基礎
+- [Python Japan | ゼロからのPython入門講座](https://www.python.jp/train/index.html)
 ### Numpy
 ### Matplotlib
 ### Pandas
