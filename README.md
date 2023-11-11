@@ -22,7 +22,7 @@ Python初心者の人が初めてプログラムを実行するなら、ここ�
 
 ### ノートブック基本機能
 
-- [はじめてのGoogleコラボ](https://colab.research.google.com/github/ao9-prog-team/ColabHandbook/blob/main/NotebookTutorial/NotebookTutorial1.ipynb)
+- [はじめてのColabノートブック](https://colab.research.google.com/github/ao9-prog-team/ColabHandbook/blob/main/NotebookTutorial/NotebookTutorial1.ipynb)
 
 ## お役立ちリンク
 
