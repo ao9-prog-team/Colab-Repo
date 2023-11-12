@@ -22,7 +22,10 @@ Python初心者の人が初めてプログラムを実行するなら、ここ�
 
 ### ノートブック基本機能
 
-- [はじめてのColabノートブック](https://colab.research.google.com/github/ao9-prog-team/ColabHandbook/blob/main/NotebookTutorial/NotebookTutorial1.ipynb)
+- [初めてのColabノートブック](https://colab.research.google.com/github/ao9-prog-team/ColabHandbook/blob/main/NotebookTutorial/NotebookTutorial1.ipynb)
+
+### Python入門編
+- [初めてのPythonプログラミング](https://colab.research.google.com/github/ao9-prog-team/ColabHandbook/blob/main/PythonTutorial/PythonTutorial1.ipynb)
 
 ## お役立ちリンク
 
@@ -30,7 +33,8 @@ Python初心者の人が初めてプログラムを実行するなら、ここ�
 
 ### ノートブックの使い方
 - [Python Japan｜ゼロからのPython入門講座](https://www.python.jp/train/experience/colab.html)
-
+### Pythonの基礎
+- [Python Japan | ゼロからのPython入門講座](https://www.python.jp/train/index.html)
 ### Numpy
 ### Matplotlib
 ### Pandas
