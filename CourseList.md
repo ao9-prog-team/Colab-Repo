@@ -13,8 +13,8 @@
 ノートブックの末尾の「前へ｜次へ」もこの順番になっていますので、ぜひ取り組んでみてください。
 
 ## 初級編
-[初めてのColabノートブック](https://colab.research.google.com/github/ao9-prog-team/ColabHandbook/blob/main/NotebookTutorial/NotebookTutorial1.ipynb)
-[初めてのPythonプログラミング](https://colab.research.google.com/github/ao9-prog-team/ColabHandbook/blob/main/PythonTutorial/PythonTutorial1.ipynb)
+* [初めてのColabノートブック](https://colab.research.google.com/github/ao9-prog-team/ColabHandbook/blob/main/NotebookTutorial/NotebookTutorial1.ipynb)
+* [初めてのPythonプログラミング](https://colab.research.google.com/github/ao9-prog-team/ColabHandbook/blob/main/PythonTutorial/PythonTutorial1.ipynb)
 
 ## 中級編
 
